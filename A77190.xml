@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr Bagshaw's speech in Parliament February the ninth, 1640. Concerning episcopacy and the London petition.</title>
+            <author>Bagshaw, Edward, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77190</idno>
+            <idno type="STC">Wing B399</idno>
+            <idno type="STC">Thomason E196_31</idno>
+            <idno type="STC">ESTC R9564</idno>
+            <idno type="EEBO-CITATION">99873573</idno>
+            <idno type="PROQUEST">99873573</idno>
+            <idno type="VID">157461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157461)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E196[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr Bagshaw's speech in Parliament February the ninth, 1640. Concerning episcopacy and the London petition.</title>
+                  <author>Bagshaw, Edward, d. 1662.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 3, 6-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Constable,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text and register are continuous despite pagination.</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Temporal power --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157461:1"/>
+            <pb facs="tcp:157461:1" rendition="simple:additions"/>
+            <p>Mr BAGSHAW'S SPEECH IN PARLIAMENT February the ninth, 1640. <hi>Concerning</hi> EPISCOPACY And the LONDON PETITION.</p>
+            <p>LONDON, Printed for <hi>Francis Conſtable.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157461:2"/>
+            <pb n="1" facs="tcp:157461:2"/>
+            <head>M<hi rend="sup">r</hi> BAGSHAW'S SPEECH In Parliament Febr. 9<hi rend="sup">th</hi> 1640. <hi>Concerning</hi> EPISCOPACY And the LONDON PETITION.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Was yeſterday and the time be<g ref="char:EOLhyphen"/>fore, for the retaining of the London Petition, and am in the ſame minde ſtill; and therefore doe now riſe up againſt the pro<g ref="char:EOLhyphen"/>poſall of that queſtion which is now called for; <hi>Whether Epiſcopacy it ſelfe bee to bee taken into conſideration by the Commit<g ref="char:EOLhyphen"/>tee:</hi> wherein I doe diſtinguiſh of a twofold Epiſcopacy, the firſt, <hi>in Statu puro,</hi> as it was in
+<pb n="2" facs="tcp:157461:3"/>the Primitive times: the ſecond, <hi>in Statu corrup<g ref="char:EOLhyphen"/>to,</hi> as it is at this day, and is ſo intended and meant in the London Petition. Now I hold that Epiſcopacy in this later ſenſe is to be taken into conſideration as a thing that trencheth not only upon the right and liberties of the ſubject, of which I ſhall have occaſion to ſpeak here<g ref="char:EOLhyphen"/>after. But as it is now, it trencheth upon the Crowne of <hi>England</hi> in theſe ſoure particulars, wherein I know, this Houſe will willingly heare me.</p>
+            <p>Firſt, it is maintained by the Biſhop of <hi>Ex<g ref="char:EOLhyphen"/>eter</hi> in a book which he hath <hi>writ</hi> to this purpoſe, that Epiſcopacy it ſelfe both in the office and in the juriſdiction is <hi>do Iure Divino,</hi> of divine right; which poſition is directly contrary to the lawes of <hi>England,</hi> of which I will cite but two or three in ſtead of many more. The Sta<g ref="char:EOLhyphen"/>tute of <hi>Carliſle</hi> 35 <hi>Ed.</hi> 1. mentioned in <hi>Caudries</hi> caſe, in the fifth Report, ſaith, that the Church of <hi>England</hi> is founded in the ſtate of Prelacy by the Kings of <hi>England</hi> and their Progenitors. Which likewiſe appeares by the firſt Chapter <hi>in Magna Charta,</hi> in theſe words, <hi>Conceſsimus Deo &amp; Eccleſiae Anglicanae omnes libertates, &amp;c.</hi> and in the twenty fifth yeare of <hi>Edward</hi> the third, in the French Roll which I have ſeene, there the Archbiſhop and Clergy petition the King for their liberties, in theſe words, thus engliſhed, <hi>That for the Reverence of God and holy Church, and of his grace and bounty, he will confirme
+<pb n="3" facs="tcp:157461:3"/>all thoſe liberties, priviledges, and rights, granted and given by him and his noble Progenitors, to the Church by their Charters:</hi> which plainly ſheweth, that they have their Epiſcopall Juriſdiction from the Kings of <hi>England,</hi> and not <hi>Iure divino</hi> by divine right: and this likewiſe is acknow<g ref="char:EOLhyphen"/>ledged by themſelves in the Statute of 37 <hi>H.</hi> 8. <hi>cap.</hi> 17. that they have their Epiſcopall Juriſdiction, and all other Eccleſiaſticall Ju<g ref="char:EOLhyphen"/>riſdiction whatſoever ſolely and only, by, from, and under the King.</p>
+            <p>The ſecond thing that is trenching upon the Crowne is this, that it is holden at this day, that Epiſcopacy is inſeparable to the Crowne of <hi>England;</hi> and therefore it is commonly now ſaid, <hi>no Biſhop, no King; no Miter, no Scepter:</hi> which I utterly deny; for it is plaine and apparant, that the Kings of <hi>England</hi> were long before Biſhops, and have a ſubſiſtence without them, and have done and may ſtill de<g ref="char:EOLhyphen"/>poſe them.</p>
+            <p>The third is likewiſe conſiderable, as trench<g ref="char:EOLhyphen"/>ing upon the Crowne, which is that was ſaid under the Gallery, that Epiſcopacy was a third eſtate in Parliament, and therefore the King and Parliament could not bee without them; this I utterly deny, for there are three eſtates without them, as namely, the King, who is the firſt eſtate; the Lords Temporall the ſecond, and the Commons the third; and I know no fourth eſtate. Beſides, the Kings of <hi>England</hi>
+               <pb n="6" facs="tcp:157461:4"/>have had many Parliaments wherein there have beene no Biſhops at all: as for example, <hi>Ed.</hi> 1.24. of his Reigne, held his Parliament at <hi>Ed<g ref="char:EOLhyphen"/>mundbury, excluſo Clero;</hi> and in the Parliament 7. <hi>R.</hi> 2. <hi>cap.</hi> 3. and 7. <hi>R.</hi> 2. <hi>cap.</hi> 12. it doth ap<g ref="char:EOLhyphen"/>peare that they were enacted by the King with the aſſent and agreement of the Lords Tem<g ref="char:EOLhyphen"/>porall, and Commons, where the eſtates of Parliament are mentioned, and not the Clergy. Divers other Statutes might likewiſe be named to this purpoſe, which I omit.</p>
+            <p>The fourth and laſt thing is of the Biſhops holding of the Eccleſiaſticall Courts in their owne names, and not in the name of the King, nor by Commiſſion from him, contrary to the Statute of 1 <hi>Ed.</hi> 6. <hi>cap.</hi> 2. and contrary to the practice of Biſhop <hi>Ridley, Coverdale,</hi> and <hi>Ponnet,</hi> who took Commiſſions from the King for holding their Eccleſiaſticall Courts, as may be ſeene at this day in the Rols.</p>
+            <p>And although it will be objected, that by a late Proclamation in 1637. wherein the opi<g ref="char:EOLhyphen"/>nion of the Judges is mentioned, it is declared upon their opinion, that the Act of the 1 <hi>Ed.</hi> 6. was repealed, and that Biſhops may now keep Courts in their owne names, and ſend proceſſe under their owne ſeales; yet it is well known, that the Statute of 1 Q. <hi>Mary,</hi> which repealed the Statute of 1 <hi>Ed.</hi> 6. was it ſelfe repealed by the Statute of 1 <hi>Iac. cap.</hi> 25. whereupon it was holden upon a full debate of this point in
+<pb n="7" facs="tcp:157461:4"/>Parliament 7 <hi>Iac.</hi> which I have ſeene, that upon conſideration of the Statutes of 1 <hi>Iac.</hi> and 1 <hi>Eliz. cap.</hi> 1. and 8 <hi>Eliz. cap.</hi> 1. that the Statute of 1 <hi>E.</hi> 6. was revived, and that Biſhops ought not to keep Courts in their owne names: So that for theſe Reaſons ſo neerly concerning the right of the Crowne of <hi>England</hi> in the point of Epiſcopacy, I am againſt the propoſall of that queſtion, and am for the retaining of the London Petition, and for a thorough reformation of all abuſes, and grievances of Epiſcopacy mentioned in the Miniſters Remonſtrance, which Reformation may perhaps ſerve the turne without alteration of the Government of <hi>England,</hi> into a forme of Presbytery, as it is in other Kingdomes of <hi>Scotland, France, Geneva,</hi> and the <hi>Low Countreys,</hi> which for mine owne part, had I lived in theſe Kingdomes, I ſhould have beene of the opi<g ref="char:EOLhyphen"/>nion of the Proteſtant party in point of Pres<g ref="char:EOLhyphen"/>bytery, becauſe thoſe Kingdomes are governed by the Civill Law, which maintaines the Ju<g ref="char:EOLhyphen"/>riſdiction of the Pope and Papall Epiſcopacy, which the ancient Lawes of <hi>England</hi> condemne, being likewiſe in themſelves oppoſite to the Civill and Canon Lawes. And if not withſtan<g ref="char:EOLhyphen"/>ding all the Reformation that can be made by the Lawes of this Land, a better forme of govern<g ref="char:EOLhyphen"/>ment may evidently appeare to us, concerning which there is no forme now before us; it is to be taken by us into conſideration, according
+<pb n="8" facs="tcp:157461:5"/>to that imperiall Conſtitution in theſe words, <hi>In rebus nobis conſtituendis evidens utilitas eſſe debet, ut ab eo jure recedatur quod diu equum viſum eſt.</hi>
+            </p>
+            <p>And ſo Mr. <hi>Speaker,</hi> I ſhortly conclude, that for theſe Reaſons, omitting divers more, the London Petition is to bee retained.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
